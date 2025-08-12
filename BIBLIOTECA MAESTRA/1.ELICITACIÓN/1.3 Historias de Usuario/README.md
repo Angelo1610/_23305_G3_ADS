@@ -6,10 +6,10 @@ Este directorio contiene los documentos que forman parte del Elemento de Configu
 **Información del ECS**
 
 
-Nombre del ECS: Historias de Usuario
-Autor: Ronny Ibarra, Carlos Rivera, Ángelo Sánchez
-Proyecto: AE VISION
-Línea base: LBR - Línea Base Requisitos
-Localización: _23305_G3_ADS/BIBLIOTECA MAESTRA/1.ELICITACIÓN/1.3 Historias de Usuario
-Tipo de ECS: Documento (XLSX)
-Fecha de creación: 08/05/2025
+* Nombre del ECS: Historias de Usuario
+* Autor: Ronny Ibarra, Carlos Rivera, Ángelo Sánchez
+* Proyecto: AE VISION
+* Línea base: LBR - Línea Base Requisitos
+* Localización: _23305_G3_ADS/BIBLIOTECA MAESTRA/1.ELICITACIÓN/1.3 Historias de Usuario
+* Tipo de ECS: Documento (XLSX)
+* Fecha de creación: 08/05/2025
