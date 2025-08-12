@@ -5,8 +5,8 @@ Esta carpeta contiene los documentos gráficos y diagramas que representan el di
 Contenido principal:
 
 
-Diagramas de casos de uso
-Diagrama de Flujo
+# Diagramas de casos de uso
+# Diagrama de Flujo
 
 
 Fecha de inicio:08 de mayo de 2025
