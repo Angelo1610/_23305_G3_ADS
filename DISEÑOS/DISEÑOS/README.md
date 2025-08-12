@@ -1,8 +1,8 @@
 **Resumen General de Diseños**
 
-**| Código      | Nombre                          | Especificación                                             | Encargados                                  |**
+**|   Código    |               Nombre                |                   Especificación                               |                 Encargados                  |**
 
-**| ----------- | ------------------------------- | ---------------------------------------------------------- | ------------------------------------------- |**
+**| ----------- | ------------------------------------| ----------------------------------------------------------     | ------------------------------------------- |**
 
 **| \*\*PAT\*\*     | Patrón Modelo Vista Controlador | Implementación del patrón MVC para la aplicación AE Vision | Ronny Ibarra, Carlos Rivera, Angelo Sánchez |**
 
