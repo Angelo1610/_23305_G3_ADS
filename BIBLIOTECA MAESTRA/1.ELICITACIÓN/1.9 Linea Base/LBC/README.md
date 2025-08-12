@@ -9,5 +9,5 @@ Contenido principal:
 * Archivos de configuración del proyecto
 * Componentes asociados al despliegue y operación del sistema
 
-Fecha de inicio:08 de mayo de 2025
-Responsables:Ronny Ibarra, Carlos Rivera, Ángelo Sánchez
+* Fecha de inicio:08 de mayo de 2025
+* Responsables:Ronny Ibarra, Carlos Rivera, Ángelo Sánchez

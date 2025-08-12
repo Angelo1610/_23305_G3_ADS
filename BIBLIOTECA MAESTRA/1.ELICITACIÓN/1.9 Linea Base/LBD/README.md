@@ -9,5 +9,5 @@ Contenido principal:
 * Diagrama de Flujo
 
 
-Fecha de inicio:08 de mayo de 2025
-Responsables:Ronny Ibarra, Carlos Rivera, Ángelo Sánchez
+* Fecha de inicio:08 de mayo de 2025
+* Responsables:Ronny Ibarra, Carlos Rivera, Ángelo Sánchez
