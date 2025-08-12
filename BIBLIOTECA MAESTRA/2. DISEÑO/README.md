@@ -1,18 +1,14 @@
 # _23305_G3_ADS
 
-# Código Fuente Backend
+# Diseño
 **Descripción**
-Este directorio contiene los archivos que forman parte del Elemento de Configuración del Software (ECS) correspondiente al código fuente del backend del proyecto AE VISION, una plataforma web para la gestión de ventas y administración del personal.
-
+Carpeta con diagramas y documentos gráficos del diseño del sistema AE VISION.
 **Información del ECS**
 
-
-* Nombre: Código Fuente Backend
+* Nombre: Diagramas de Diseño
 * Autor: Ronny Ibarra, Carlos Rivera, Ángelo Sánchez
-* Proyecto: AE VISION
-* Línea base: LBC - Línea Base de Construcción
-* Localización: 23305_G3_ADS/CODIGO
-* Tipo: Software (Código Fuente)
+* Localización: _23305_G3_ADS/BIBLIOTECA MAESTRA/2. DISEÑO/Diagramas_G3
+* Tipo: PDF
 * Fecha de creación: 08/05/2025
 
 
