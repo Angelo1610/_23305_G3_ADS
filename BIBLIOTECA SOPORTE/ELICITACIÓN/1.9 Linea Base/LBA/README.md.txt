@@ -1,1 +1,0 @@
-Línea Base LBA - Análisis
