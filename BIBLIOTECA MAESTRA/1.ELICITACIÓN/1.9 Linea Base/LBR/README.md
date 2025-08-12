@@ -11,7 +11,7 @@ Esta carpeta contiene la especificación completa de requisitos del sistema AE V
 
 **Detalles**
 
-Fecha de Inicio: 08 de mayo de 2025
-Responsables:Ronny Ibarra, Carlos Rivera, Ángelo Sánchez
+* Fecha de Inicio: 08 de mayo de 2025
+* Responsables:Ronny Ibarra, Carlos Rivera, Ángelo Sánchez
 
 

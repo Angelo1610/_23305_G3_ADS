@@ -1,6 +1,6 @@
 # _23305_G3_ADS
 
-Línea Base LBD - Diseño
+# Línea Base LBD - Diseño
 Esta carpeta contiene los documentos gráficos y diagramas que representan el diseño del sistema AE VISION.
 Contenido principal:
 

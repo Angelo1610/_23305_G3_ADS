@@ -1,6 +1,6 @@
 # _23305_G3_ADS
 
-Línea Base LBC - Implementación
+# Línea Base LBC - Implementación
 Esta carpeta contiene todo el código fuente y scripts del proyecto AE VISION, organizado para el desarrollo y pruebas.
 Contenido principal:
 
