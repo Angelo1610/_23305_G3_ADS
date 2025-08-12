@@ -6,8 +6,8 @@ Esta carpeta contiene los documentos y diagramas relacionados con la fase de an�
 
 **Contenido principal:**
 
-Diagramas de actividades
-Documentación de análisis funcional y de procesos
+* Diagramas de actividades
+* Documentación de análisis funcional y de procesos
 
 **Fecha de inicio:**
 08 de mayo de 2025
